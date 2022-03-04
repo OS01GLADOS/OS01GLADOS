@@ -1,5 +1,5 @@
 - 👋 Hi, I’m OS01GLADOS
-- 👀 I’m interested in web developing using Python
+- 👀 I’m interested in backend developing using Python and machine learning.
 - 📫 You can reach me on email: no.name.tyan.d@gmail.com
 
 <!---
